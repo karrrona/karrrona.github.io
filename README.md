@@ -1,7 +1,16 @@
-# karrrona.github.io
+# Jekyll docs site
 
-hello there!
+This directory contains the code for the Jekyll docs site, [jekyllrb.com](http://jekyllrb.com/).
 
-Here is going to be the website of White Karrona advertising agency, Minsk, Belarus.
+## Contributing
 
-Trying out wordpress org and staff like JavaScript, jQuery, CSS, HTML.
+For information about contributing, see the [Contributing page](http://jekyllrb.com/docs/contributing/).
+
+## Running locally
+
+You can preview your contributions before opening a pull request by running from within the directory:
+
+1. `bundle install`
+2. `bundle exec rake site:preview`
+
+It's just a jekyll site, afterall! :wink:
